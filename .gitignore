@@ -1,0 +1,15 @@
+.vscode
+.expo/
+.scala-build/
+.metals/
+
+npm/
+go/
+cs/
+react/
+pnpm/
+scala/
+node/
+sbt/
+java/
+.idea/
